@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!/rofi
+!/alacritty
+!/nvim
+!/nixos-config
+!/picom.conf
+qtile/__pycache__
+qtile/modules/__pycache__
+!/rofi
+!/tmux/tmux.conf

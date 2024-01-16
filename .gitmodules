@@ -1,0 +1,3 @@
+[submodule "nixos-config"]
+	path = nixos-config
+	url = git@github.com:nulladmin1/nixos-config.git
